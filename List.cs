@@ -14,7 +14,7 @@ class Program
             "Milk",
             "Eggs",
             "Bread",
-            "Butter",
+            "Chicken",
             "Apples"
         };
 
